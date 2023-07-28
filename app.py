@@ -92,4 +92,4 @@ def predict():
 if __name__ == '__main__':
     #app.run(debug=True)
     # start server with 81 port
-    app.run(debug=True)
+    app.run()
